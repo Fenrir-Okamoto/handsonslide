@@ -61,7 +61,13 @@ https://www.fenrir-inc.com/jp/works/
 
 ## JR西日本　列車走行位置
 
-![image](https://www.fenrir-inc.com/wp/wp-content/uploads/2017/07/train_location.png)
+![image](https://raw.githubusercontent.com/Fenrir-Okamoto/handsonslide/master/images/job01.png)
+
+---
+
+## みん撃 名刺MAKER
+
+![image](https://raw.githubusercontent.com/Fenrir-Okamoto/handsonslide/master/images/job02.png)
 
 ---
 
@@ -77,16 +83,16 @@ https://www.fenrir-inc.com/jp/works/
 
 ## タイムテーブル
 
-時刻	| 内容 | 備考
+時刻  | 内容 | 備考
 --- | --- | ---
-11:00 - 11:10 | はじめに	| -
-11:10 - 11:40 | SPA/PWA の話	| -
-11:40 - 12:30 | ハンズオン１	| -
-12:30 - 13:30 | 休憩	| -
-13:30 - 15:00 | ハンズオン２	| -
-15:00 - 16:30 | ハンズオン３	| -
-16:30 - 17:00 | まとめ	| -
-17:00 - 19:00 | 懇親会	| -
+11:00 - 11:10 | はじめに    | -
+11:10 - 11:40 | SPA/PWA の話  | -
+11:40 - 12:30 | ハンズオン１  | -
+12:30 - 13:30 | 休憩  | -
+13:30 - 15:00 | ハンズオン２  | -
+15:00 - 16:30 | ハンズオン３  | -
+16:30 - 17:00 | まとめ | -
+17:00 - 19:00 | 懇親会 | -
 
 ---
 
@@ -189,6 +195,18 @@ https://www.flipkart.com/
 ---
 
 ### 画面イメージ
+
+一覧ページ
+
+![image](https://raw.githubusercontent.com/Fenrir-Okamoto/handsonslide/master/images/top.png)
+
+---
+
+### 画面イメージ
+
+詳細ページ
+
+![image](https://raw.githubusercontent.com/Fenrir-Okamoto/handsonslide/master/images/detail.png)
 
 ---
 
