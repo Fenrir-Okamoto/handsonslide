@@ -61,13 +61,13 @@ https://www.fenrir-inc.com/jp/works/
 
 ## JR西日本　列車走行位置
 
-![image](https://raw.githubusercontent.com/Fenrir-Okamoto/handsonslide/master/images/job01.png)
+---?image=https://raw.githubusercontent.com/Fenrir-Okamoto/handsonslide/master/images/job01.png&size=auto 90%
 
 ---
 
 ## みん撃 名刺MAKER
 
-![image](https://raw.githubusercontent.com/Fenrir-Okamoto/handsonslide/master/images/job02.png)
+---?image=https://raw.githubusercontent.com/Fenrir-Okamoto/handsonslide/master/images/job02.png&size=auto 90%
 
 ---
 
