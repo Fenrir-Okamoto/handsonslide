@@ -53,6 +53,18 @@
 
 ---
 
+## フェンリルとは
+
+https://www.fenrir-inc.com/jp/works/
+
+---
+
+## JR西日本　列車走行位置
+
+![image](https://www.fenrir-inc.com/wp/wp-content/uploads/2017/07/train_location.png)
+
+---
+
 ## 対象者
 
 - Web アプリ開発に興味のある方
