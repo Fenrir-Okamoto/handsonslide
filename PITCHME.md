@@ -61,13 +61,13 @@ https://www.fenrir-inc.com/jp/works/
 
 ## みん撃 名刺MAKER
 
----?image=https://raw.githubusercontent.com/Fenrir-Okamoto/handsonslide/master/images/job02.png&size=auto auto
+---?image=https://raw.githubusercontent.com/Fenrir-Okamoto/handsonslide/master/images/job02.png&size=auto 90%
 
 ---
 
 ## JR西日本　列車走行位置
 
----?image=https://raw.githubusercontent.com/Fenrir-Okamoto/handsonslide/master/images/job01.png&size=auto auto
+---?image=https://raw.githubusercontent.com/Fenrir-Okamoto/handsonslide/master/images/job01.png&size=auto 90%
 
 ---
 
@@ -198,7 +198,7 @@ https://www.flipkart.com/
 
 一覧ページ
 
-![image](https://raw.githubusercontent.com/Fenrir-Okamoto/handsonslide/master/images/top.png)
+---?image=https://raw.githubusercontent.com/Fenrir-Okamoto/handsonslide/master/images/top.png&size=auto 90%
 
 ---
 
@@ -206,7 +206,7 @@ https://www.flipkart.com/
 
 詳細ページ
 
-![image](https://raw.githubusercontent.com/Fenrir-Okamoto/handsonslide/master/images/detail.png)
+---?image=https://raw.githubusercontent.com/Fenrir-Okamoto/handsonslide/master/images/detail.png&size=auto 90%
 
 ---
 
