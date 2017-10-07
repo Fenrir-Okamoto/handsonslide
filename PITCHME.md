@@ -1,7 +1,7 @@
 # Fenrir Handson
 ## Web2017
 
-2017/10/7 Fenrir inc.
+2017/10/7 Fenrir Inc.
 
 ---
 
