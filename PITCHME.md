@@ -1,4 +1,5 @@
-# FenrirHandsonWeb2017
+# Fenrir Handson
+## Web2017
 
 2017/10/7 Fenrir inc.
 
@@ -251,7 +252,7 @@ https://www.flipkart.com/
 ```
 cd お好きなディレクトリ/
 git clone https://github.com/Fenrir-Okamoto/FenrirHandsonWeb2017.git
-cd FenrirHandsonWeb2017/imageFav/
+cd FenrirHandsonWeb2017/fenridge/
 npm install
 ```
 
@@ -300,7 +301,7 @@ npm run dev
 
 ## エディタでひらく
 
-`FenrirHandsonWeb2017/imageFav/` 以下をエディタで開こう
+`FenrirHandsonWeb2017/fenridge/` 以下をエディタで開こう
 
 ---
 
